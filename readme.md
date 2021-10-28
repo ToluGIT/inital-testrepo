@@ -1,6 +1,6 @@
 # Hi
 
-"Hello from the other-side"
+#Creating a merge conflict
 
 "new changes to branch"
 "added from remote - local"
